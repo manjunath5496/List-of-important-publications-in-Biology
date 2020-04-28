@@ -57,8 +57,13 @@ STK33 Kinase Activity Is Nonessential in KRAS-Dependent Cancer</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(38).pdf">Loss of recent memory after bilateral hippocampal lesions</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(39).pdf">Genetical Implications of the Structure of Deoxyribonucleic Acid</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(40).pdf">Leptin activation of Stat3 in the hypothalamus of wild-type and ob/ob mice but not db/db mice</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(41).pdf">An epigenetic mutation responsible for natural variation in floral symmetry</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(42).pdf">The Nobel Prize in Physiology or Medicine 2012, jointly to John B. Gurdon and Shinya Yamanaka for the discovery that mature cells can be reprogrammed to become pluripotent</a></li>
 
 </ul>
 </br>
