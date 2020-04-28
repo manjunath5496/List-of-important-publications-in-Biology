@@ -41,9 +41,21 @@ STK33 Kinase Activity Is Nonessential in KRAS-Dependent Cancer</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(30).pdf">Effects of Parabiosis of Obese with Diabetes and Normal Mice</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(31).pdf">The Developmental Capacity of Nuclei taken from Intestinal Epithelium Cells of Feeding Tadpoles</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(32).pdf">Leptin and the Regulation of Body Weight</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(33).pdf">Heredity and Development</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(34).pdf">Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(35).pdf">Inclusion body formation reduces levels of mutant huntingtin and the risk of neuronal death</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(36).pdf">Novel Proteinaceous Infectious Particles Cause Scrapie</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(37).pdf">DNA synthesis dependent on genetic recombination: characterization of a reaction catalyzed by purified bacteriophage T4 proteins</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(38).pdf">Loss of recent memory after bilateral hippocampal lesions</a></li>
 
 
 
