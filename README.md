@@ -25,5 +25,28 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(22).pdf">How the Mind Works</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(23).pdf">Gray's Anatomy</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(24).pdf">Potent and specific genetic interference by double-stranded RNA in Caenorhabditis elegans</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(25).pdf">The early history of DNA polymerase: a commentary</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(26).pdf">Single-molecule imaging of DNA pairing by RecA reveals a three-dimensional homology search</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(27).pdf">Written Testimony of Dr. Bruce M. Alberts Editor-in-Chief, Science magazine; Professor Emeritus, UCSF Before the Subcommittee on Research, Committee on Science, Space, and Technology U.S. House of Representatives Hearing on "Scientific Integrity and Transparency" March 5, 2013</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(28).pdf">Cells
+STK33 Kinase Activity Is Nonessential in KRAS-Dependent Cancer</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(29).pdf">Synthetic Lethal Interaction between Oncogenic KRAS Dependency and STK33 Suppression in Human Cancer Cells</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-Biology/blob/master/ipb(30).pdf">Effects of Parabiosis of Obese with Diabetes and Normal Mice</a></li>
+
+
+
+
+
+
+
+
 </ul>
 </br>
